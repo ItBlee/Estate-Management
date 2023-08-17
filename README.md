@@ -3,10 +3,10 @@
 ### Introduction
 An efficient estate management website capable of accurately handling and effectively managing extensive data
 </br>
-* DEMO: itblee.com
-Account: nguyenvana - 123456
-</br>
-* API with JWT project: github.com/ItBlee/Estate-Management-API
+* DEMO: https://itblee.com
+    - Username: nguyenvana
+    - Password: 123456
+* API with JWT project: https://github.com/ItBlee/Estate-Management-API
 
 ### Technologies Used
 [Automatic SqlBuilder](https://github.com/ItBlee/SqlBuilder), Spring MVC, Spring Boot, Spring Security, JPA, Spring Data JPA, Bootstrap, Jquery, AJAX, Restful API, MySQL, JSP,  JSTL, Sitemesh Decorator.
